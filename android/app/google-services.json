@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533216583926",
+    "project_id": "fir-7d50d",
+    "storage_bucket": "fir-7d50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533216583926:android:9676115332658f454b0cd7",
+        "android_client_info": {
+          "package_name": "joao.prates.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533216583926-hap2itcqokjmcae5eb48h51idu137p8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCU3BbFjSsJJIhYduCeo9xSYk-wR6-7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533216583926-hap2itcqokjmcae5eb48h51idu137p8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
